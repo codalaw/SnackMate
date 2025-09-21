@@ -16,6 +16,8 @@ The landing page provides:
 1. Clone the repository:
    ```bash
    git clone https://github.com/codalaw/odin-landing-page.git
+```
+
 
    #live View
    https://codalaw.github.io/SnackMate/
