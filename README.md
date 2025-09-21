@@ -13,7 +13,7 @@ The landing page provides:
 
 ## Getting Started
 
- #live View
+ ## live View
    https://codalaw.github.io/SnackMate/
 
 1. Clone the repository:
